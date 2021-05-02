@@ -1,7 +1,7 @@
 <!-- --------------------------------------------------------------------------------------------------------------------------- -->
 <img src="https://github.com/Evandro-FDVO/MatLab-VB/blob/main/img/Baja.png" width="100">
 
-# **Estudo - Matlab**
+# **Estudo do MatLab**
 
 Estudos em MatLab - [Vitória Baja](https://www.instagram.com/vitoriabaja/).
 
