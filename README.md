@@ -45,6 +45,10 @@ Para obter acesso, entre em [Wiki](https://github.com/Evandro-FDVO/MatLab-VB/wik
 ```
 git clone https://github.com/Evandro-FDVO/MatLab-VB.git
 ```
+- Baixe ou clone a wiki usando:
+```
+git clone https://github.com/Evandro-FDVO/MatLab-VB.wiki.git
+```
 
 ## ❓ **Dúvidas**
 - Caso haja alguma dúvida em relação a este repositório, envie para [evandro.della@gmail.com](mailto:evandro.della@gmail.com).
